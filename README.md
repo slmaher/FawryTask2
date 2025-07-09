@@ -65,21 +65,7 @@ Output:
 
 ![Output of Quantum Bookstore](output.png)
 
-```
-Quantum Bookstore: Added book 'Java basics' (ISBN: 1111)
-Quantum Bookstore: Added book 'Quantum computing' (ISBN: 2222)
-...
-Quantum Bookstore: Removing books older than 10 years...
-Quantum Bookstore: Removed book 'bin El kassreen' (ISBN: 4444)
-...
-** Shipment notice **
-2x Java basics
-Address: 123 Main St
-...
-Quantum Bookstore: Purchase successful. Paid: $89.99
-...
-Quantum Bookstore: Not enough stock for PaperBook (ISBN: 1111)
-```
+
 
 ## Customization
 
